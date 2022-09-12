@@ -1,0 +1,9 @@
+//firebase init
+//npm i stripe cors express
+//firebase emulators:start
+//firebase deploy --only functions
+// npm run build
+////firebase deploy --only hosting
+// firebase init
+//hosting
+//npm run build && firebase deploy --only hosting
